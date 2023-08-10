@@ -9,7 +9,7 @@
   
   #Config
 
-  - [JAVA CONFIG](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
- https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26
+  - [Variáveis de Ambiente JAVA](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
+
   #Curso
   - [BACKEND JAVA](https://www.youtube.com/playlist?list=PLyUWi6NKA47s5ERTyjtv-ozXkl8mAZmHi)
